@@ -1,9 +1,9 @@
 
 
 #########################################
-#		CODE FROM Bakulcilok			#
-#     bakulcilok0331@gmail.com 			#
-#	  http://github.com/bakulcilok		#
+#	CODE FROM Bakulcilok		#
+#     bakulcilok0331@gmail.com 		#
+#   http://github.com/bakulcilok	#
 #########################################
 
 
